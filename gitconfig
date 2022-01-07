@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fotis.kolytoumpas@gmail.com
+	name = Fotios Kolytoumpas
